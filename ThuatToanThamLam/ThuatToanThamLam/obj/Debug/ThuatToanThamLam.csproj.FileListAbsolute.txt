@@ -1,0 +1,7 @@
+D:\PTTKTT\Buoi4_PTTKTT\ThuatToanThamLam\ThuatToanThamLam\bin\Debug\ThuatToanThamLam.exe.config
+D:\PTTKTT\Buoi4_PTTKTT\ThuatToanThamLam\ThuatToanThamLam\bin\Debug\ThuatToanThamLam.exe
+D:\PTTKTT\Buoi4_PTTKTT\ThuatToanThamLam\ThuatToanThamLam\bin\Debug\ThuatToanThamLam.pdb
+D:\PTTKTT\Buoi4_PTTKTT\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\ThuatToanThamLam.csproj.AssemblyReference.cache
+D:\PTTKTT\Buoi4_PTTKTT\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\ThuatToanThamLam.csproj.CoreCompileInputs.cache
+D:\PTTKTT\Buoi4_PTTKTT\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\ThuatToanThamLam.exe
+D:\PTTKTT\Buoi4_PTTKTT\ThuatToanThamLam\ThuatToanThamLam\obj\Debug\ThuatToanThamLam.pdb
